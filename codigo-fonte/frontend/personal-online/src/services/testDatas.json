@@ -1,0 +1,141 @@
+{
+    "programasJson":[
+        {
+            "id": "iniciante",
+            "name": "Iniciante",
+            "workouts": [
+                {
+                    "id": "treinoa",
+                    "name": "Treino A",
+                    "day": "Diário",
+                    "exercises": [
+                        {
+                            "id": "supino",
+                            "name": "Supino",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        },
+                        {
+                            "id": "agachamentomaquina",
+                            "name": "Agachamento máquina",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "treinocardio",
+                    "name": "Treino Cardio",
+                    "day": "Diário",
+                    "exercises": [
+                        {
+                            "id": "caminhadaesteira",
+                            "name": "Caminhada Esteira",
+                            "series": 1,
+                            "repetitions": 20,
+                            "restTime": 10,
+                            "demo": "",
+                            "thumb": ""
+                        },
+                        {
+                            "id": "corridaesteira",
+                            "name": "Corrida Esteira",
+                            "series": 1,
+                            "repetitions": 10,
+                            "restTime": 10,
+                            "demo": "",
+                            "thumb": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "treinoabc",
+            "name": "Treino ABC",
+            "workouts": [
+                {
+                    "id": "a",
+                    "name": "A",
+                    "day": "Segunda-feira",
+                    "exercises": [
+                        {
+                            "id": "supino",
+                            "name": "Supino",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        },
+                        {
+                            "id": "crucifixohalteres",
+                            "name": "Crucifixo halteres",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "b",
+                    "name": "B",
+                    "day": "Terça-feira",
+                    "exercises": [
+                        {
+                            "id": "remadacurvada",
+                            "name": "Remada curvada unilateral",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        },
+                        {
+                            "id": "barrafixa",
+                            "name": "Barra fixa",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "c",
+                    "name": "C",
+                    "day": "Quarta-feira",
+                    "exercises": [
+                        {
+                            "id": "agachamentolivre",
+                            "name": "Agachamento livre",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        },
+                        {
+                            "id": "mesaflexora",
+                            "name": "Mesa flexora",
+                            "series": 3,
+                            "repetitions": 10,
+                            "restTime": 60,
+                            "demo": "",
+                            "thumb": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
